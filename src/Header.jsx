@@ -7,7 +7,8 @@ function Header() {
         <h1 className="logo">Skillsync</h1>
         <nav className="nav" aria-label="Main navigation">
           <ul className="nav-list">
-            <li><a href="#" className="nav-link" aria-current="page">Home</a></li>
+            <li><a href="#" className="nav-link" aria-current="page">People</a></li>
+            <li><a href="#" className="nav-link" aria-current="page">Jobs</a></li>
             <div className="vl"></div>
             <li><a href="#" className='nav-link'>Get the app</a></li>
             <div className="vl"></div>
