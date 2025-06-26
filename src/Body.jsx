@@ -1,4 +1,4 @@
-import picture2 from './assets/picture-2.png';
+import picture3 from './assets/picture-3.png';
 import googleIcon from './assets/google.png';
 import facebookIcon from './assets/meta.png';
 import emailIcon from './assets/email.png';
@@ -26,7 +26,7 @@ function Body() {
           </div>
         </main>
         <div className="image-side">
-          <img src={picture2} alt="Working from home" />
+          <img src={picture3} alt="Working from home" />
         </div>
       </div>
     </>

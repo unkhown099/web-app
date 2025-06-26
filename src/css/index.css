@@ -199,3 +199,50 @@
   margin-right: 10px;
   vertical-align: middle;
 }
+
+/* content */
+.landing-content {
+  padding: 4rem 10%;
+  background-color: #f9f9f9;
+}
+
+.content-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.landing-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.landing-content h3 {
+  margin-top: 2rem;
+  font-size: 1.5rem;
+  color: #444;
+}
+
+.landing-content p,
+.landing-content li {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+.landing-content ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 1rem;
+}
+
+.landing-content li {
+  margin-bottom: 0.75rem;
+}
+
+.cta {
+  margin-top: 2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #222;
+}
